@@ -1,7 +1,7 @@
 
 
-project_id = "gcp-tf-gitops"
-tfstate_gcs_backend = "gcp-tf-gitops-tfstate"
+project_id = "gcp-tf-gitops-1"
+tfstate_gcs_backend = "gcp-tf-gitops-1-tfstate"
 region = "us-east4"
 zones = ["us-east4-a"]
 ip_range_pods_name = "ip-range-pods"

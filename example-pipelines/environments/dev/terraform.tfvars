@@ -1,4 +1,4 @@
-project_id = "gcp-tf-gitops"
+project_id = "gcp-tf-gitops-1"
 environment = "dev"
 subnet1_region = "us-central1"
 subnet1_zone = "us-central1-a"
